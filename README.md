@@ -4,6 +4,6 @@ Librarians can also use it to add new books to the library and keep track of who
 The goal is to make manage a library smoother for both librarian and the user.
 As such no pre-requisistes are required for this project. Any Java IDE can be used preferrably Intellij Idea.
 Some of the important functionalities implementented are the use of Array lists to store users data and books data.
-The basic concept of OOP have been implemented. 
+The basic concepts of OOP have been implemented. 
 Various classes have been defined for Users, Books, Library etc
 Each have their own unique attributes and methods performing various tasks.
