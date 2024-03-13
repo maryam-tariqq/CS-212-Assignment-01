@@ -168,7 +168,7 @@ public class LibraryManagementSystem {
     }
 
     //User class
-    static class User {
+    public static class User {
         String userID;
         String name;
         String contactInformation;
