@@ -182,7 +182,7 @@ public class LibraryManagementSystem {
         }
     }
     //Library Class
-    static class Library {
+    public static class Library {
         ArrayList<Book> books = new ArrayList<>();
         ArrayList<User> users = new ArrayList<>();
         //Adding book method
